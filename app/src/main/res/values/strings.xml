@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AuthActivty</string>
+    <string name="Password_hint" />
+    <string name="User_hint" />
+    <string name="Login_button" />
+    <string name="Invalid_credentials" />
+    <string name="Login_title_font_size">\n</string>
+    <string name="Error_message_font_size" />
+</resources>
